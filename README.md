@@ -1,5 +1,4 @@
 
-```
 # Character Creation GUI
 
 This Java program implements a Character Creation GUI, allowing users to create, modify, delete, and view characters of different types such as students, international students, and teachers.
@@ -21,13 +20,13 @@ This Java program implements a Character Creation GUI, allowing users to create,
 
 1. Compile the Java source file:
 
-   ```
+   ```shell
    javac CharacterCreationGUI.java
    ```
 
 2. Run the program:
 
-   ```
+   ```shell
    java CharacterCreationGUI
    ```
 
@@ -44,4 +43,4 @@ This Java program implements a Character Creation GUI, allowing users to create,
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Feel free to customize the README file according to your specific needs, such as adding installation instructions, screenshots, or any additional information about the project.
+Now you can simply copy the above Markdown code and paste it into your GitHub repository's README file, and GitHub will format it accordingly.
