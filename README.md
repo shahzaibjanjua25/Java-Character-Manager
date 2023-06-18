@@ -42,5 +42,3 @@ This Java program implements a Character Creation GUI, allowing users to create,
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-Now you can simply copy the above Markdown code and paste it into your GitHub repository's README file, and GitHub will format it accordingly.
