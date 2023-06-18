@@ -1,0 +1,10 @@
+asif2.CharacterCreationGUI$3
+asif2.Person
+asif2.CharacterCreationGUI$2
+asif2.CharacterCreationGUI$5
+asif2.CharacterCreationGUI$4
+asif2.Teacher
+asif2.CharacterCreationGUI$1
+asif2.CharacterCreationGUI
+asif2.Student
+asif2.InternationalStudent
